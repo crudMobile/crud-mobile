@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CRUD_MOBILE/app/src/main/res/layout/activity_main.xml" value="0.17346014492753623" />
+        <entry key="..\:/CRUD_MOBILE/app/src/main/res/layout/activity_tambah_film.xml" value="0.17346014492753623" />
+        <entry key="..\:/CRUD_MOBILE/app/src/main/res/layout/activity_tambah_musik.xml" value="0.18432971014492755" />
+        <entry key="..\:/CRUD_MOBILE/app/src/main/res/layout/activity_ubah_film.xml" value="0.1" />
+        <entry key="..\:/CRUD_MOBILE/app/src/main/res/layout/activity_ubah_musik.xml" value="0.18432971014492755" />
+        <entry key="..\:/CRUD_MOBILE/app/src/main/res/layout/sitiamaliyah8020180240.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/CRUD_MOBILE/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/User/Music/CRUD_MOBILE/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/User/Music/CRUD_MOBILE/app/src/main/res/layout/activity_tambah_musik.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/User/Music/CRUD_MOBILE/app/src/main/res/layout/activity_ubah_musik.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/User/Music/CRUD_MOBILE/app/src/main/res/layout/indahsriwahyuni8020180234.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/User/Music/CRUD_MOBILE/app/src/main/res/layout/melianigulo8020180088.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/User/Pictures/CRUD_MOBILE/app/src/main/res/layout/activity_main.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/User/Pictures/CRUD_MOBILE/app/src/main/res/layout/activity_tambah_film.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/User/Pictures/CRUD_MOBILE/app/src/main/res/layout/activity_tambah_musik.xml" value="0.22" />
+        <entry key="..\:/Users/User/Pictures/CRUD_MOBILE/app/src/main/res/layout/activity_ubah_film.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/User/Pictures/CRUD_MOBILE/app/src/main/res/layout/melianigulo8020180088.xml" value="0.25" />
+        <entry key="..\:/Users/User/Pictures/CRUD_MOBILE/app/src/main/res/layout/sitiamaliyah8020180240.xml" value="0.15081521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
